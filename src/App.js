@@ -8,6 +8,7 @@ import VariableWidthSlide from "./Components/VariableWidthSlide";
 import VerticalModeSlide from "./Components/VerticalModeSlide";
 import FocusOnSelectSlide from "./Components/FocusOnSelectSlide";
 import ReverseSlide from "./Components/ReverseSlide";
+import GallerySlide from "./Components/GallerySlide";
 
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
@@ -23,6 +24,8 @@ function App({}) {
       <VerticalModeSlide />
       <FocusOnSelectSlide />
       <ReverseSlide />
+
+      <GallerySlide />
     </div>
   );
 }

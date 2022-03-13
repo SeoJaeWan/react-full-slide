@@ -7,7 +7,7 @@ const CenterSlide = () => {
     className: "center",
     centerMode: true,
     infinite: true,
-    centerPadding: "60px",
+    centerPadding: "100px",
     slidesToShow: 3,
     speed: 500,
   };

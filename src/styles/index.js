@@ -20,13 +20,6 @@ export const SlideContainer = styled.div`
     opacity: 1;
     transform: scale(1.06);
   }
-
-  .center ${MultiItem} {
-    /* center 모드일때 center 외 속성에게 사용 */
-    opacity: 0.8;
-    transition: all 300ms ease;
-    transform: scale(0.99);
-  }
 `;
 
 export const SlidePage = styled.div`
@@ -46,5 +39,8 @@ export const SlidePage = styled.div`
     padding: 2%;
     position: relative;
     text-align: center;
+    opacity: 0.8;
+    transition: all 300ms ease;
+    transform: scale(0.99);
   }
 `;
