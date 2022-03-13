@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-full-slide/static/css/main.42ada9f7.css",
+    "main.js": "/react-full-slide/static/js/main.b7388050.js",
+    "static/media/slick.svg": "/react-full-slide/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/react-full-slide/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/react-full-slide/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/react-full-slide/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/react-full-slide/index.html",
+    "main.42ada9f7.css.map": "/react-full-slide/static/css/main.42ada9f7.css.map",
+    "main.b7388050.js.map": "/react-full-slide/static/js/main.b7388050.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42ada9f7.css",
+    "static/js/main.b7388050.js"
+  ]
+}
