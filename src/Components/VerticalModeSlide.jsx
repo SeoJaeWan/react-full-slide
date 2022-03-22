@@ -8,7 +8,7 @@ const VerticalModeSlide = ({}) => {
     infinite: true,
     cssEase: "linear",
 
-    slidesToShow: 1,
+    slidesToShow: 3,
     slidesToScroll: 1,
     vertical: true,
   };
